@@ -8,6 +8,7 @@ Personal backup of my Claude Code skills collection.
 |-------|-------------|
 | `code-review` | Code review guidelines |
 | `commit` | Commit message conventions |
+| `frontend-design` | Frontend design best practices |
 | `growth-hacker` | Growth hacking strategies |
 | `motion-sv` | Motion animations for Svelte |
 | `pr` | Pull request guidelines |
