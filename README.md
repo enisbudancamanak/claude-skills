@@ -6,13 +6,16 @@ Personal backup of my Claude Code skills collection.
 
 | Skill | Description |
 |-------|-------------|
+| `better-auth-best-practices` | Better Auth integration guide |
 | `code-review` | Code review guidelines |
 | `commit` | Commit message conventions |
+| `create-auth-skill` | Auth layer setup with Better Auth |
 | `frontend-design` | Frontend design best practices |
 | `growth-hacker` | Growth hacking strategies |
 | `motion-sv` | Motion animations for Svelte |
 | `pr` | Pull request guidelines |
 | `seo` | SEO optimization skills |
+| `svelte-code-writer` | Svelte 5 CLI tools & autofixer |
 | `svelte-components` | Svelte component patterns |
 | `svelte-deployment` | Svelte deployment configs |
 | `svelte-runes` | Svelte 5 runes patterns |
